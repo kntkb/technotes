@@ -1,6 +1,6 @@
 # technotes
 Keep track of literatures and notes
 
-### Latest links of personal interest
+### Useful links
 [folding tools](https://github.com/sacdallago/folding_tools)
 
