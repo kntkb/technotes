@@ -9,3 +9,6 @@
 
 # Git
 [blog](https://github.blog/)
+
+# Pytorch cookbook
+[labml.ai Annotated Pytorch Paper Implementations](https://nn.labml.ai/)
