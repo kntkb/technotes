@@ -36,6 +36,7 @@
 ---- 
 <a name="Cookbooks"></a>
 ### Cookbooks
+  [Deep Learning for Molecules and Materials Book by Andrew White](https://dmol.pub/)  
   [labml.ai Annotated Pytorch Paper Implementations](https://nn.labml.ai/)
 
 ---- 
