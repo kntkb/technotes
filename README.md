@@ -8,6 +8,7 @@
 💡 **Notes**
 - Personal notes to keep track of new tools and methodologies related to computer-aided drug design.
 
+---
 <a name="De novo protein prediction and design"></a>
 ### De novo protein prediction and design
   - [fsacdallago/folding_tools](https://github.com/sacdallago/folding_tools)  
