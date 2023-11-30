@@ -24,6 +24,9 @@
   - FEGrow
   [![](https://img.shields.io/badge/-repo-gray)](https://github.com/cole-group/FEgrow)
   [![](https://img.shields.io/badge/DOI-10.1101%2F2022.05.17.492392-lightgrey)]([https://www.nature.com/articles/s42004-022-00754-9)
+  - DiffLinker
+  [![](https://img.shields.io/badge/-repo-gray)](https://github.com/igashov/DiffLinker)
+  [![](https://img.shields.io/badge/DOI-10.1101%2F2022.05.17.492392-lightgrey)]([https://arxiv.org/abs/2210.05274)
   
 ---- 
 <a name="DatabasesDatasets"></a>
