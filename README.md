@@ -13,6 +13,7 @@
 ### De novo protein prediction and design
   - [fsacdallago/folding_tools](https://github.com/sacdallago/folding_tools)  
   - [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools)
+  - [Peldom/papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL)
   - [yangkky/Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)
     
 ---- 
