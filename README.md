@@ -15,6 +15,7 @@
   - [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools)
   - [Peldom/papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL)
   - [yangkky/Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)
+  - [Kuhlman-Lab](https://github.com/Kuhlman-Lab)
     
 ---- 
 <a name="DenovoFragment"></a>
