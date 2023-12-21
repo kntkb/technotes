@@ -48,4 +48,4 @@
 ---- 
 <a name="Blogs"></a>
 ### Blogs
-  [github blog](https://github.blog/)
+- [github blog](https://github.blog/)
