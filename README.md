@@ -41,9 +41,9 @@
 ---- 
 <a name="Cookbooks"></a>
 ### Cookbooks
-  [Deep Learning for Molecules and Materials Book by Andrew White](https://dmol.pub/)  
-  [labml.ai Annotated Pytorch Paper Implementations](https://nn.labml.ai/)  
-  [OpenMM Cookbook](https://openmm.github.io/openmm-cookbook/dev/index.html)
+- [Deep Learning for Molecules and Materials Book by Andrew White](https://dmol.pub/)  
+- [labml.ai Annotated Pytorch Paper Implementations](https://nn.labml.ai/)  
+- [OpenMM Cookbook](https://openmm.github.io/openmm-cookbook/dev/index.html)
 
 ---- 
 <a name="Blogs"></a>
