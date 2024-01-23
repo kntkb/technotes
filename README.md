@@ -14,6 +14,7 @@
   - [fsacdallago/folding_tools](https://github.com/sacdallago/folding_tools)  
   - [duerrsimon/folding_tools](https://github.com/duerrsimon/folding_tools)
   - [Peldom/papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL)
+  - [yjcyxky/A Collection of Platform, Tools, Resources and Companies for Antibody Engineering](https://github.com/yjcyxky/antibody-dl)
   - [yangkky/Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)
   - [Kuhlman-Lab](https://github.com/Kuhlman-Lab)
     
