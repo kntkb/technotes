@@ -17,7 +17,8 @@
   - [yjcyxky/A Collection of Platform, Tools, Resources and Companies for Antibody Engineering](https://github.com/yjcyxky/antibody-dl)
   - [yangkky/Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)
   - [Kuhlman-Lab](https://github.com/Kuhlman-Lab)
-  - [Oxford Protein Informatics Group](https://github.com/oxpig) 
+  - [Oxford Protein Informatics Group](https://github.com/oxpig)
+  - [papers-for-molecular-design-using-DL](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)
     
 ---- 
 <a name="DenovoFragment"></a>
